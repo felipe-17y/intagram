@@ -103,9 +103,9 @@ body
 .message
 {
   font-weight: 400;
-  margin-top: 5px;
+  margin-top: 3px;
   color: rgb(2, 2, 2);
-  line-height: 1.5em;
+  line-height: 1.0em;
 
 }
 .comments
